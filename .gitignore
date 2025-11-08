@@ -1,3 +1,5 @@
 # Solution file
 # Ignore this file in git
 /qiskit-fall-fest_2025/challenge_solutions.ipynb
+
+*.DS_Store
